@@ -11,3 +11,5 @@ In this activity, you will create a full-stack application comprising a database
 * For the client side (JavaScript) of the application, create a plot from the data returned after making a request to the `/data` API endpoint.
 
 * Once the application works successfully on your local machine, deploy it to Heroku.
+
+https://bigfoot-paul.herokuapp.com/
